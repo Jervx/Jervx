@@ -1,3 +1,4 @@
+##≧◡≦
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jervx/Jervx/master/slime_idle_0.gif" width="150px">
   <br><br>
