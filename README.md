@@ -1,5 +1,3 @@
-### Welcome To My Github Account 👋
-
 👋 Hi, i'm currently a 2nd year BSIT Student who code for fun. I'm not that advance logic thinker so don't hire me.
 
 🔭 I'm currently working on a calculator app in java but 🤔 i'm having trouble identifying weather a negative sign is a sign or just a minus sign. if you have any idea how to deal with it just 💬 message me, I would love to learn from you.
