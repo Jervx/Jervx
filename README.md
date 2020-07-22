@@ -6,7 +6,7 @@
     <br> I'm Not good in logical thinking and it takes me a lot of time 🐢 to understand something.
       <br><br>If you have something to teach me <em>I WOULD BE HAPPY TO LEARN FROM YOU!</em>
     <br>
-    <br>:sparkles:If you want, can also <em>Collaborate 👯 developing App</em> just for practice/experience:sparkles:<br><br>
+    <br>:sparkles:If you want, we can also <em>Collaborate 👯 developing App</em> just for practice & experience:sparkles:<br><br>
     <br><br>💬 Message Me here :point_right: <a href="https://twitter.com/JerbeeParagas">Twitter</a>
   </samp>
 </p>
