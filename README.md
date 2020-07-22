@@ -1,6 +1,14 @@
-👋 Hi, i'm currently a 2nd year BSIT Student who code for fun. I'm not that advance logic thinker so don't hire me.
-
-🔭 I'm currently working on a calculator app in java but 🤔 i'm having trouble identifying weather a negative sign is a sign or just a minus sign. if you have any idea how to deal with it just 💬 message me, I would love to learn from you.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jervx/Jervx/master/slime_idle_0.gif" width="42px">
+  <br><br>
+  <samp>
+    :wave: Hi! I'm currently a 2nd year BSIT Student, & I code for fun.
+    <br> I'm Not good in logical things and it takes me a lot of time to understand something.
+      <br>If you have something to teach me <em>I WOULD BE HAPPY TO LEARN FROM YOU!</em>
+    <br>:sparkles:We can also <em>Collaborate developing App<em> just for practice/experience:sparkles:<br><br>
+    <br><br>:coffee: 💬 Message Me here :point_right: @ me on <a href="https://twitter.com/JerbeeParagas">Twitter</a>
+  </samp>
+</p>
 
 <!--
 **Jervx/Jervx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
