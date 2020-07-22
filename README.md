@@ -3,7 +3,6 @@
   <br><br>
   <samp>
     :wave: Hi! I'm currently a 2nd year BSIT Student, & I code for fun.
-    <hr>
     <br> I'm Not good in logical thinking and it takes me a lot of time 🐢 to understand something.
       <br><br>If you have something to teach me <em>I WOULD BE HAPPY TO LEARN FROM YOU!</em>
     <br>
