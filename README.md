@@ -3,6 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi! I'm currently a 2nd year BSIT Student, & I code for fun.
+    <hr>
     <br> I'm Not good in logical thinking and it takes me a lot of time 🐢 to understand something.
       <br><br>If you have something to teach me <em>I WOULD BE HAPPY TO LEARN FROM YOU!</em>
     <br>
@@ -10,12 +11,13 @@
     <br><br>💬 Message Me here :point_right: <a href="https://twitter.com/JerbeeParagas">Twitter</a>
   </samp>
 </p>
-    
+<hr>
 <details>
   <summary><b>🔭 2020 Learn & Grow 🌱 Goal</b></summary>
   🌱 - I am currently planning to finish my Java ☕ Calculator and work next on a POS using Java with MySql.<br>🌱 - Next is i will learn more about other algorithms and hopefuly i will do my best to understand it quickly.
   <br><br>
 </details>
+<hr>
 <p align="center">🙂 - I'm hoping that at the end of the year i have some milestone 🔭 and experience on the application i made.</p>
 <!--
 **Jervx/Jervx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
