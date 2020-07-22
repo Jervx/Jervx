@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jervx/Jervx/master/slime_idle_0.gif" width="42px">
+  <img src="https://raw.githubusercontent.com/Jervx/Jervx/master/slime_idle_0.gif" width="150px">
   <br><br>
   <samp>
     :wave: Hi! I'm currently a 2nd year BSIT Student, & I code for fun.
-    <br> I'm Not good in logical things and it takes me a lot of time to understand something.
-      <br>If you have something to teach me <em>I WOULD BE HAPPY TO LEARN FROM YOU!</em>
+    <br> I'm Not good in logical thinking and it takes me a lot of time to understand something.
+      <br><br>If you have something to teach me <em>I WOULD BE HAPPY TO LEARN FROM YOU!</em>
     <br>:sparkles:We can also <em>Collaborate developing App<em> just for practice/experience:sparkles:<br><br>
-    <br><br>:coffee: 💬 Message Me here :point_right: @ me on <a href="https://twitter.com/JerbeeParagas">Twitter</a>
+    <br><br>💬 Message Me here :point_right: @ me on <a href="https://twitter.com/JerbeeParagas">Twitter</a>
   </samp>
 </p>
 
