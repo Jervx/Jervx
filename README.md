@@ -12,10 +12,17 @@
 <table>
   <tr>
     <td valign="top">
-      <h3>Languages I know</h3>
+      <h3>Programming Language</h3>
       <h6>📒&emsp;<a href="#">Java</a></h6>
       <h6>📗&emsp;<a href="#">Javascript<a> ( Junior )</h6>
       <h6>📘&emsp;<a href="#">Vue Js</a> ( Intern )</h6>
+      </td>
+  </tr>
+  <td valign="top">
+      <h3>Database</h3>
+      <h6>📒&emsp;<a href="#">MySQL</a></h6>
+      <h6>📗&emsp;<a href="#">SQL Server<a> ( Junior )</h6>
+      <h6>📘&emsp;<a href="#">Mongo DB</a> ( Intern )</h6>
       </td>
   </tr>
 </table>
