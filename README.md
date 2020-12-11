@@ -37,3 +37,8 @@ Hi im jervx. Currently i am a 2nd Year BSIT student. I love coding (sometimes XD
       </td>
   </tr>
 </table>
+          
+          
+      : '     *        +  `: :       * : ' !HEY YOU ALWAYS BE HAPPY!      °     +       +  *    %        .: : ' 
+    -  .:  : '     *        +  *      `: :       * : '          +           +  *           %     °  %    :' :     : ' 
+    +   *   Jervx           %  :            `:::      : : '    °     *     :'  Jervx  * : '  `'      :`: +  *     : ' 
