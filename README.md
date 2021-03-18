@@ -13,8 +13,16 @@ Hi im jervx. Currently i am a 2nd Year BSIT student. I love coding (sometimes XD
       <h5>Programming Language</h5>
       <h6>🍩&emsp;<a href="#">Java</a>&emsp;</h6>
       <h6>🍰&emsp;<a href="#">Javascript<a>&emsp;</h6>
-      <h6>🍪&emsp;<a href="#">Vue Js</a>&emsp;</h6>
       </td>
+          <td valign="top">
+              <h5>Frameworks/Tools</h5>
+          <h6>🍪&emsp;<a href="#">Vue Js</a>&emsp;</h6>
+          <h6>📦&emsp;<a href="#">Node Js</a>&emsp;</h6>
+          <h6>⚛&emsp;<a href="#">React</a>&emsp;</h6>
+          <h6>🍵&emsp;<a href="#">JavaFX</a>&emsp;</h6>
+          <h6>🍃&emsp;<a href="#">Java Spring</a>&emsp;</h6>   
+          <h6>🎨&emsp;<a href="#">SASS</a>&emsp;</h6>   
+          </td>
       <td valign="top">
       <h5>Database</h5>
       <h6>🍞&emsp;<a href="#">MySQL</a>&emsp;</h6>
